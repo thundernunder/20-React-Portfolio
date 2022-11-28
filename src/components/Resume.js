@@ -1,0 +1,37 @@
+import React from "react";
+
+function Resume() {
+  return (
+    <div className="columns">
+      <div className="column">
+        <p className="content is-medium">Resume</p>
+        <hr />
+
+        <a
+          className="button is-primary"
+          href={process.env.PUBLIC_URL + "public\Master Resume - Updated 9.22.22.pdf"}
+          target="_blank" rel="noreferrer"
+        >
+          <span className="icon">
+            <i className="fas fa-download"></i>
+          </span>
+          <span>Download My Resume</span>
+        </a>
+      </div>
+      <div className="column">
+        <p className="content is-medium">Skills</p>
+        <hr />
+        <ul>
+            <li>HTML, CSS, Javascript</li>
+            <li>OpenAPI, JSON</li>
+            <li>MERN Stack</li>
+            <li>Markdown</li>
+            <li>Git, Heroku</li>
+            <li>Github Repo Management</li>
+        </ul>
+      </div>
+    </div>
+  );
+}
+
+export default Resume;
