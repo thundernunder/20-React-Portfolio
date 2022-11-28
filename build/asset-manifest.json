@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/thundernunder/20-React-Portfolio/static/css/main.99278753.chunk.css",
+    "main.js": "/thundernunder/20-React-Portfolio/static/js/main.e5387c5e.chunk.js",
+    "main.js.map": "/thundernunder/20-React-Portfolio/static/js/main.e5387c5e.chunk.js.map",
+    "runtime-main.js": "/thundernunder/20-React-Portfolio/static/js/runtime-main.1f118c2f.js",
+    "runtime-main.js.map": "/thundernunder/20-React-Portfolio/static/js/runtime-main.1f118c2f.js.map",
+    "static/js/2.cfe7c164.chunk.js": "/thundernunder/20-React-Portfolio/static/js/2.cfe7c164.chunk.js",
+    "static/js/2.cfe7c164.chunk.js.map": "/thundernunder/20-React-Portfolio/static/js/2.cfe7c164.chunk.js.map",
+    "index.html": "/thundernunder/20-React-Portfolio/index.html",
+    "static/css/main.99278753.chunk.css.map": "/thundernunder/20-React-Portfolio/static/css/main.99278753.chunk.css.map",
+    "static/js/2.cfe7c164.chunk.js.LICENSE.txt": "/thundernunder/20-React-Portfolio/static/js/2.cfe7c164.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f118c2f.js",
+    "static/js/2.cfe7c164.chunk.js",
+    "static/css/main.99278753.chunk.css",
+    "static/js/main.e5387c5e.chunk.js"
+  ]
+}
