@@ -24,7 +24,7 @@
 <p>Please click this link to navigate to deployed application repo: https://github.com/thundernunder/20-React-Portfolio</p>
 
 <h2>Live Application</h2>
-<p>Please click this link to navigate to live application: https://warm-anchorage-17898.herokuapp.com/</p>
+<p>Please click this link to navigate to live application: https://thundernunder.github.io/20-React-Portfolio//</p>
 
 <h2>Questions</h2>
 <p>Have questions about this project?
