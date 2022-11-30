@@ -5,7 +5,7 @@ function About() {
     <div>
       <p className="content is-medium">Current Marketeer and Aspiring Full Stack Developer</p>
       <hr />
-      <img className="my-pic" src={'public/images/nate.png'} alt="Nathan Underwood"/>
+      <img className="me" src='public/images/nate.png' alt="Nathan Underwood"/>
       <p className="content is-italic mt-4">
         My name is Nathan, but most call me Nate. I currently am an Admissions Director repsonsible for all admissions-marketing efforts at a major private high-school. I am excited to be diving into this journey of becoming a full-stack developer! 
       </p>
