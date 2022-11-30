@@ -21,7 +21,7 @@ const projects = [
         image: "/images/breakhub.png",
         description: "BreakHub is a customized virtual break room for killing time efficiently. Procrastinators unite. Whether you are a working professional, student, or want to keep on task for things around the house, BreakHub gives you the break you need and gets you back on task when the time is right. Set your custom timer to determine how long your break needs to be, and use the app to help you get back on task once break is over.", 
         repository: "https://github.com/aurorayihe/BreakHub_theThunderCats", 
-        live_link: "https://aurorayihe.github.io/ProjectOne_BreakHub_theThunderCats/",
+        live_link: "https://aurorayihe.github.io/BreakHub_theThunderCats/",
     },
 
     {
