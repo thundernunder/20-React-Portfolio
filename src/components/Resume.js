@@ -9,7 +9,7 @@ function Resume() {
 
         <a
           className="button is-primary"
-          href="public/Master Resume - Updated 9.22.22.pdf"          target="_blank" rel="noreferrer"
+          href="../../public/Master Resume - Updated 9.22.22"          target="_blank" rel="noreferrer"
         >
           <span className="icon">
             <i className="fas fa-download"></i>

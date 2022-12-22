@@ -3,6 +3,7 @@ import Navigation from "./Navigation";
 import About from "./About";
 import Portfolio from "./Portfolio";
 import Resume from "./Resume";
+import Nate from "../img/nate.png";
 
 function Header() {
     const [currentPage, handlePageChange] = useState("About");
@@ -30,7 +31,14 @@ const renderPage = () => {
             target="_blank"
             href="https://github.com/thundernunder?tab=repositoriess"
           >
-            <span className="content is-large">Nathan Underwood</span>
+            <span className="content is-large">
+              <div style={{ backgroundImage: `url(${Nate})` }}>
+              Nathan Underwood
+              <br />
+              <br />
+              <br />
+              </div>
+            </span>
           </a>
         </div>
       </nav>
