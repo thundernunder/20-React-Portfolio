@@ -3,7 +3,8 @@ import Navigation from "./Navigation";
 import About from "./About";
 import Portfolio from "./Portfolio";
 import Resume from "./Resume";
-import Nate from "../img/nate.png";
+import Nate from "../Assets/img/nate.png";
+
 
 function Header() {
     const [currentPage, handlePageChange] = useState("About");
