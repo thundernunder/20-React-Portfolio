@@ -1,4 +1,5 @@
 import React from "react";
+import pdf from "../Assets/nathanUnderwoodResume12.1.22.pdf";
 
 function Resume() {
   return (
@@ -7,9 +8,19 @@ function Resume() {
         <p className="content is-medium">Resume</p>
         <hr />
 
+        {/* <Button
+            variant="primary"
+            href={pdf}
+            target="_blank"
+            style={{ maxWidth: "250px" }}
+          >
+            <AiOutlineDownload />
+            &nbsp;Download CV
+          </Button> */}
+
         <a
           className="button is-primary"
-          href="../../public/Master Resume - Updated 9.22.22"          target="_blank" rel="noreferrer"
+          href={pdf}    target="_blank" rel="noreferrer"
         >
           <span className="icon">
             <i className="fas fa-download"></i>

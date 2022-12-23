@@ -3,7 +3,7 @@ import Navigation from "./Navigation";
 import About from "./About";
 import Portfolio from "./Portfolio";
 import Resume from "./Resume";
-import Nate from "../Assets/img/nate.png";
+
 
 
 function Header() {
@@ -33,7 +33,7 @@ const renderPage = () => {
             href="https://github.com/thundernunder?tab=repositoriess"
           >
             <span className="content is-large">
-              <div style={{ backgroundImage: `url(${Nate})` }}>
+              <div >
               Nathan Underwood
               <br />
               <br />
