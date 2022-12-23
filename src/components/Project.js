@@ -1,5 +1,7 @@
 import React from "react";
 
+
+
 function Project(props) {
   return (
     <div>
@@ -9,7 +11,8 @@ function Project(props) {
             <div className="card">
               <div className="card-image">
                 <figure className="image is-4by3">
-                  <a href={project.live} target="_blank" rel="noreferrer">
+                  <a href={project.live_link} target="_blank" rel="noreferrer">
+                  <img src={project.image} alt={project.alt} />
                   </a>
                 </figure>
               </div>
@@ -30,7 +33,7 @@ function Project(props) {
                   <div className="content is-family-code">
                     Languages: {project.languages}
                     <br />
-                    NPM Packages: {project.packages}
+                    NPM Packages: {project.node_packages}
                   </div>
                   <div className="card">
                     <footer className="card-footer">
@@ -43,7 +46,7 @@ function Project(props) {
                       </a>
                       <br />
                       <a
-                        href={project.live}
+                        href={project.live_link}
                         className="card-footer-item"
                         target="_blank" rel="noreferrer"
                       >
