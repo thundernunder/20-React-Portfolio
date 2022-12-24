@@ -1,8 +1,8 @@
 import React from "react";
 import Project from "./Project";
-import GoatCars from "../Assets/img/goatcars2.png"; 
-import BreakHub from "../Assets/img/breakhub2.png";
-import Play2Day from "../Assets/img/play2day2.png"
+import GoatCars from "../Assets/img/goatcars2.PNG"; 
+import BreakHub from "../Assets/img/breakhub2.PNG";
+import Play2Day from "../Assets/img/play2day2.PNG"
 
 const projects = [
     {
