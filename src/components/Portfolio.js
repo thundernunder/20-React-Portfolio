@@ -1,7 +1,8 @@
 import React from "react";
 import Project from "./Project";
-import GoatCars from "../Assets/img/goatcars.png"; 
-import BreakHub from "../Assets/img/breakhub.png"
+import GoatCars from "../Assets/img/goatcars2.png"; 
+import BreakHub from "../Assets/img/breakhub2.png";
+import Play2Day from "../Assets/img/play2day2.png"
 
 const projects = [
     {
@@ -33,7 +34,7 @@ const projects = [
         title: 'Play2day', 
         languages: 'Javascript', 
         node_packages: 'sequelize, mysql2, express, dotenv', 
-        image: "",
+        image: Play2Day,
         description: "Whether it's to keep a competitve edge, stay in shape, or connect with friends, many people love playing sports recreationally, even if they can't play professionally. The problem is there are not many options focused on helping people organize pickup games in an easy way. Play2Day aims to fill this need by creating a space where users can connect with friends and members of their community by easily organizing pickup sports game. Get out there and Play2Day!", 
         repository: "https://github.com/Young-Chhay/Play2Day",
         live_link: "https://gentle-fortress-88764.herokuapp.com/", 
