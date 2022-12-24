@@ -32,12 +32,9 @@ const renderPage = () => {
             target="_blank"
             href="https://github.com/thundernunder?tab=repositoriess"
           >
-            <span className="content is-large">
-              <div >
+            <span className="content is-large" style = {{alingContent: "center"}}>
+              <div style = {{ color: "black", textShadow: "2px 2px 4px #8797AF", alignItems: "center"}} >
               Nathan Underwood
-              <br />
-              <br />
-              <br />
               </div>
             </span>
           </a>
