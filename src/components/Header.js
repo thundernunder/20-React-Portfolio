@@ -4,8 +4,6 @@ import About from "./About";
 import Portfolio from "./Portfolio";
 import Resume from "./Resume";
 
-
-
 function Header() {
     const [currentPage, handlePageChange] = useState("About");
 
@@ -23,8 +21,8 @@ const renderPage = () => {
   };
 
   return (
-    <div>
-      <nav className="navbar">
+    <div style= {{color: "black"}}>
+      <nav className="navbar is-centered">
         <div className="navbar-brand">
           <a
             className="navbar-item"
@@ -32,8 +30,8 @@ const renderPage = () => {
             target="_blank"
             href="https://github.com/thundernunder?tab=repositoriess"
           >
-            <span className="content is-large" style = {{alingContent: "center"}}>
-              <div style = {{ color: "black", textShadow: "2px 2px 4px #8797AF", alignItems: "center"}} >
+            <span className="content is-large" >
+              <div style = {{ color: "black", textShadow: "2px 2px 4px #8797AF"}} >
               Nathan Underwood
               </div>
             </span>

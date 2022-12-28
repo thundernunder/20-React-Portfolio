@@ -1,10 +1,11 @@
 import React from "react";
+import Background from "../Assets/img/background2.jpg";
 
 
 
 function Project(props) {
   return (
-    <div>
+    <div style={{backgroundImage: `url(${Background})`, color: "black"}}>
       <div className="columns is-desktop is-justify-content-center is-flex-wrap-wrap is-flex-direction-row">
         {props.projects.map((project) => (
           <div className="column is-half">
