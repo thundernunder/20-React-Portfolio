@@ -4,7 +4,7 @@ import pdf from "../Assets/nathanUnderwoodResume12.1.22.pdf";
 function Resume() {
   return (
     <div className="columns">
-      <div className="column">
+      <div className="column" style={{paddingLeft: "100px"}}>
         <p className="content is-medium">Resume</p>
         <hr />
 
