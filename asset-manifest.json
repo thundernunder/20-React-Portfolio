@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/20-React-Portfolio/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/20-React-Portfolio/static/js/main.8d371e39.chunk.js",
-    "main.js.map": "/20-React-Portfolio/static/js/main.8d371e39.chunk.js.map",
+    "main.css": "/20-React-Portfolio/static/css/main.aa4ec3db.chunk.css",
+    "main.js": "/20-React-Portfolio/static/js/main.b75d8e23.chunk.js",
+    "main.js.map": "/20-React-Portfolio/static/js/main.b75d8e23.chunk.js.map",
     "runtime-main.js": "/20-React-Portfolio/static/js/runtime-main.a6c0d60a.js",
     "runtime-main.js.map": "/20-React-Portfolio/static/js/runtime-main.a6c0d60a.js.map",
-    "static/js/2.75b432a3.chunk.js": "/20-React-Portfolio/static/js/2.75b432a3.chunk.js",
-    "static/js/2.75b432a3.chunk.js.map": "/20-React-Portfolio/static/js/2.75b432a3.chunk.js.map",
+    "static/js/2.9cf8214f.chunk.js": "/20-React-Portfolio/static/js/2.9cf8214f.chunk.js",
+    "static/js/2.9cf8214f.chunk.js.map": "/20-React-Portfolio/static/js/2.9cf8214f.chunk.js.map",
     "index.html": "/20-React-Portfolio/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/20-React-Portfolio/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.75b432a3.chunk.js.LICENSE.txt": "/20-React-Portfolio/static/js/2.75b432a3.chunk.js.LICENSE.txt"
+    "static/css/main.aa4ec3db.chunk.css.map": "/20-React-Portfolio/static/css/main.aa4ec3db.chunk.css.map",
+    "static/js/2.9cf8214f.chunk.js.LICENSE.txt": "/20-React-Portfolio/static/js/2.9cf8214f.chunk.js.LICENSE.txt",
+    "static/media/background2.7e5af958.jpg": "/20-React-Portfolio/static/media/background2.7e5af958.jpg",
+    "static/media/breakhub2.5d2268a4.PNG": "/20-React-Portfolio/static/media/breakhub2.5d2268a4.PNG",
+    "static/media/goatcars2.d2e39afd.PNG": "/20-React-Portfolio/static/media/goatcars2.d2e39afd.PNG",
+    "static/media/nate.37801706.png": "/20-React-Portfolio/static/media/nate.37801706.png",
+    "static/media/nathanUnderwoodResume12.1.22.38b8b25b.pdf": "/20-React-Portfolio/static/media/nathanUnderwoodResume12.1.22.38b8b25b.pdf",
+    "static/media/play2day2.bd3c268f.PNG": "/20-React-Portfolio/static/media/play2day2.bd3c268f.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.a6c0d60a.js",
-    "static/js/2.75b432a3.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.8d371e39.chunk.js"
+    "static/js/2.9cf8214f.chunk.js",
+    "static/css/main.aa4ec3db.chunk.css",
+    "static/js/main.b75d8e23.chunk.js"
   ]
 }
