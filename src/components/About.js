@@ -12,7 +12,7 @@ function About() {
         <img className="me" src={Nate}alt="Nathan Underwood" style={{borderRadius: "100%"}}/>
         <div style = {{color: "white", padding: "10px", opacity: "70%"}}>
           <p id = "aboutP1" className="box content is-italic mt-4 content is-large">
-          My name is Nathan, but most call me Nate. I currently am an Admissions Director repsonsible for all admissions-marketing efforts at a major private high-school. I am excited to be diving into this journey of becoming a full-stack developer! 
+          Full Stack Web Developer with a Marketing background and 6 years of experience as Director of Admissions Marketing at Mater Dei High School in Santa Ana, CA. Excited to build applications in tandem with expert marketing analytic and user-experience skills gained from previous employment. Known by my coworkers as a fierce competitor who stays calm and cool under pressure and can keep things light in the workplace. 
           </p>
           <p className="box content is-italic mt-4 content is-large">
           I'm confident my experience of aligning product with customer needs will help me work and create applications that are seamless and pleasurable for the user to experience. 
