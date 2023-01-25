@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/thundernunder/20-React-Portfolio/static/css/main.aa4ec3db.chunk.css",
+    "main.js": "/thundernunder/20-React-Portfolio/static/js/main.3319bd00.chunk.js",
+    "main.js.map": "/thundernunder/20-React-Portfolio/static/js/main.3319bd00.chunk.js.map",
+    "runtime-main.js": "/thundernunder/20-React-Portfolio/static/js/runtime-main.956d436b.js",
+    "runtime-main.js.map": "/thundernunder/20-React-Portfolio/static/js/runtime-main.956d436b.js.map",
+    "static/js/2.1e306fae.chunk.js": "/thundernunder/20-React-Portfolio/static/js/2.1e306fae.chunk.js",
+    "static/js/2.1e306fae.chunk.js.map": "/thundernunder/20-React-Portfolio/static/js/2.1e306fae.chunk.js.map",
+    "index.html": "/thundernunder/20-React-Portfolio/index.html",
+    "static/css/main.aa4ec3db.chunk.css.map": "/thundernunder/20-React-Portfolio/static/css/main.aa4ec3db.chunk.css.map",
+    "static/js/2.1e306fae.chunk.js.LICENSE.txt": "/thundernunder/20-React-Portfolio/static/js/2.1e306fae.chunk.js.LICENSE.txt",
+    "static/media/background2.7e5af958.jpg": "/thundernunder/20-React-Portfolio/static/media/background2.7e5af958.jpg",
+    "static/media/breakhub2.5d2268a4.PNG": "/thundernunder/20-React-Portfolio/static/media/breakhub2.5d2268a4.PNG",
+    "static/media/goatcars2.d2e39afd.PNG": "/thundernunder/20-React-Portfolio/static/media/goatcars2.d2e39afd.PNG",
+    "static/media/nate.37801706.png": "/thundernunder/20-React-Portfolio/static/media/nate.37801706.png",
+    "static/media/nathanUnderwoodResume12.1.22.e05141bc.pdf": "/thundernunder/20-React-Portfolio/static/media/nathanUnderwoodResume12.1.22.e05141bc.pdf",
+    "static/media/play2day2.bd3c268f.PNG": "/thundernunder/20-React-Portfolio/static/media/play2day2.bd3c268f.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.956d436b.js",
+    "static/js/2.1e306fae.chunk.js",
+    "static/css/main.aa4ec3db.chunk.css",
+    "static/js/main.3319bd00.chunk.js"
+  ]
+}
